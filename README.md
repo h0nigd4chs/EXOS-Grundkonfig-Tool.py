@@ -1,4 +1,4 @@
-# EXOS Grundkonfigurationstool
+# EXOS Grundkonfig Tool
 Ein Python-Skript, das grundlegende Konfigurationen auf einem ExtremeXOS (EXOS) Switch übernimmt. Dieses Skript ermöglicht es, wichtige Grundeinstellungen wie das Deaktivieren von Telnet und STP, das Aktivieren von SSH, das Erstellen von VLANs und das Setzen eines Gerätenamens einfach über die CLI des Switches vorzunehmen.
 
 ## Funktionen
